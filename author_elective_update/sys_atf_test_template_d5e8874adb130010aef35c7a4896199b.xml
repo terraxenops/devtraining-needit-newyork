@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_template">
+    <sys_atf_test_template action="DELETE">
+        <description>Impersonate a user, insert a record, verify all mandatory fields have values, log results</description>
+        <name>Business Rule Test - NeedIt</name>
+        <sys_class_name>sys_atf_test_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-03 20:08:39</sys_created_on>
+        <sys_id>d5e8874adb130010aef35c7a4896199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Rule Test - NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_template_d5e8874adb130010aef35c7a4896199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-03 20:08:39</sys_updated_on>
+        <template/>
+    </sys_atf_test_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>e5db60dcdb517380f492c597059619fe</instance_id>
+        <instance_name>dev84970</instance_name>
+        <name>sys_atf_test_template_d5e8874adb130010aef35c7a4896199b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_template"><sys_atf_test_template action="INSERT_OR_UPDATE"><description>Impersonate a user, insert a record, verify all mandatory fields have values, log results</description><name>Business Rule Test - NeedIt</name><sys_class_name>sys_atf_test_template</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-03 20:08:39</sys_created_on><sys_id>d5e8874adb130010aef35c7a4896199b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Business Rule Test - NeedIt</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_test_template_d5e8874adb130010aef35c7a4896199b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-03 20:08:39</sys_updated_on><template/></sys_atf_test_template></record_update>]]></payload>
+        <payload_hash>196615314</payload_hash>
+        <record_name>Business Rule Test - NeedIt</record_name>
+        <reverted_from/>
+        <source>6ec70746db130010aef35c7a4896193b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-03 20:08:39</sys_created_on>
+        <sys_id>1d090746db130010aef35c7a48961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170a203bdb40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-03 20:08:39</sys_updated_on>
+        <type>Test Template</type>
+        <update_guid>1509074673130010a61bdf9cf4941230</update_guid>
+        <update_guid_history>1509074673130010a61bdf9cf4941230:196615314</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-03 20:09:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test_template">sys_atf_test_template</sys_db_object>
+        <sys_id>067b5c76ae104c44803c613b46219cc9</sys_id>
+        <sys_metadata>d5e8874adb130010aef35c7a4896199b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Rule Test - NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_template_d5e8874adb130010aef35c7a4896199b</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_template_d5e8874adb130010aef35c7a4896199b">1d090746db130010aef35c7a48961930</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-03 20:09:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
